@@ -25,9 +25,8 @@ iMEDSoS-Nexus/
 │   └── Supplementary_Algorithms.tex  # Algorithms S1–S4 standalone
 │
 ├── figures/
-│   ├── main_figures/              # Placeholder images referenced by main text
-│   │   # (3600.png, 4a600.png … — supply your own from original dataset)
-│   ├── dataset3_figures/          # Dataset 3 result figures (generated)
+│   ├── main_figures/              
+│   ├── dataset3_figures/          # Dataset 3 result figures
 │   │   ├── Fig_D3_PerClass_Performance.png
 │   │   ├── Fig_D3_ConfusionMatrix.png
 │   │   ├── Fig_D3_LFMLConvergence.png
@@ -36,7 +35,7 @@ iMEDSoS-Nexus/
 │   │   ├── Fig_D3_ThresholdSensitivity.png
 │   │   ├── Fig_D3_BaselineComparison.png
 │   │   └── Fig_D3_ROC_Curves.png
-│   └── supplemental_figures/     # Supplemental figures S1–S5 (generated)
+│   └── supplemental_figures/     # Supplemental figures S1–S5 
 │       ├── Fig_S1_Scalability_Extended.png
 │       ├── Fig_S2_CASPA_k1k2_sweep.png
 │       ├── Fig_S3_CASPA_k3k4_sweep.png

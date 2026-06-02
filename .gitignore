@@ -1,0 +1,39 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.idx
+*.ilg
+*.ind
+*.nav
+*.snm
+*.vrb
+*.bcf
+*.run.xml
+*.xdv
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Editor
+.vscode/
+.idea/
